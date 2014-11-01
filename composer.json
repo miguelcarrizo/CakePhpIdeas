@@ -1,0 +1,11 @@
+{
+    "name": "vendor/cake-p-h-p-ideas",
+    "description": "Description of project CakePHPIdeas.",
+    "authors": [
+        {
+            "name": "Miguel",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
